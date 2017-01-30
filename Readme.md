@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Rustam Khamidullin](https://up.htmlacademy.ru/htmlcss/16/user/292979).
+* Студент: [Rustam Khamidullin Rafaelevic](https://up.htmlacademy.ru/htmlcss/16/user/292979).
 
 ---
 
